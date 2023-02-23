@@ -5,7 +5,7 @@ https://youtu.be/8veFNkTfeDo
 in this project I prepare a ScreenBuffer based on a session DataSet
 
 Used components
-TIA Portal & WinCC Unified V16 Update4 
+TIA Portal & WinCC Unified V18
 
 
 
